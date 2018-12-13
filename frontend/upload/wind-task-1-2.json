@@ -1,0 +1,185 @@
+{
+    "response": [
+        
+        {
+            "date": "2018-12-17 03:00:00",
+            "tod": "Ночь",
+            "wind": {
+                "gust_speed": {
+                    "mps": 5
+                },
+                "direction": {
+                    "degree": 126
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-17 09:00:00",
+            "tod": "Утро",
+            "wind": {
+                "gust_speed": {
+                    "mps": 6
+                },
+                "direction": {
+                    "degree": 107
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-17 15:00:00",
+            "tod": "День",
+            "wind": {
+                "gust_speed": {
+                    "mps": 7
+                },
+                "direction": {
+                    "degree": 92
+                },
+                "speed": {
+                    "mps": 4
+                }
+            }
+        },
+        {
+            "date": "2018-12-17 21:00:00",
+            "tod": "Вечер",
+            "wind": {
+                "gust_speed": {
+                    "mps": 8
+                },
+                "direction": {
+                    "degree": 108
+                },
+                "speed": {
+                    "mps": 5
+                }
+            }
+        },
+        {
+            "date": "2018-12-18 03:00:00",
+            "tod": "Ночь",
+            "wind": {
+                "gust_speed": {
+                    "mps": 8
+                },
+                "direction": {
+                    "degree": 112
+                },
+                "speed": {
+                    "mps": 5
+                }
+            }
+        },
+        {
+            "date": "2018-12-18 09:00:00",
+            "tod": "Утро",
+            "wind": {
+                "gust_speed": {
+                    "mps": 8
+                },
+                "direction": {
+                    "degree": 108
+                },
+                "speed": {
+                    "mps": 4
+                }
+            }
+        },
+        {
+            "date": "2018-12-18 15:00:00",
+            "tod": "День",
+            "wind": {
+                "gust_speed": {
+                    "mps": 7
+                },
+                "direction": {
+                    "degree": 115
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-18 21:00:00",
+            "tod": "Вечер",
+            "wind": {
+                "gust_speed": {
+                    "mps": 4
+                },
+                "direction": {
+                    "degree": 141
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-19 03:00:00",
+            "tod": "Ночь",
+            "wind": {
+                "gust_speed": {
+                    "mps": 4
+                },
+                "direction": {
+                    "degree": 140
+                },
+                "speed": {
+                    "mps": 2
+                }
+            }
+        },
+        {
+            "date": "2018-12-19 09:00:00",
+            "tod": "Утро",
+            "wind": {
+                "gust_speed": {
+                    "mps": 4
+                },
+                "direction": {
+                    "degree": 161
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-19 15:00:00",
+            "tod": "День",
+            "wind": {
+                "gust_speed": {
+                    "mps": 5
+                },
+                "direction": {
+                    "degree": 129
+                },
+                "speed": {
+                    "mps": 3
+                }
+            }
+        },
+        {
+            "date": "2018-12-19 21:00:00",
+            "tod": "Вечер",
+            "wind": {
+                "gust_speed": {
+                    "mps": 6
+                },
+                "direction": {
+                    "degree": 132
+                },
+                "speed": {
+                    "mps": 4
+                }
+            }
+        }
+    ]
+}
