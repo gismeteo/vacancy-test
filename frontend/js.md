@@ -109,3 +109,35 @@ console.log(obj)
  - `async/await`
  
 Функция должна вернуть объект `{city, weather, geography}`
+
+#### Задача 9.
+
+Посчитать сумму массива, используя функцию sum
+```js
+const sum = (x, y) => Promise.resolve(x + y)
+const array = [1, 2, 3]
+```
+
+#### Задача 10.
+
+Написать функцию curry
+```js
+const sum = (a, b, c) => a + b + c
+const f = curry(sum)
+console.log(f(1)(2, 4)) // 7
+console.log(f(1, 2)(4)) // 7
+console.log(f(1, 2, 4)) // 7
+console.log(f(1)(2)(4)) // 7
+```
+
+#### Задача 11.
+
+Что выведет и почему?
+
+```js
+for (let i = 0; i < 3; i++) {
+    setTimeout(function () {
+        console.log(i)
+    }, 100);
+}
+```
