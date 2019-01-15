@@ -1,14 +1,14 @@
 Нужно сверстать погодный блок с данными о ветре на 9 дней
 
-![wind](frontend/upload/wind.png)
+![wind](/frontend/upload/wind.png)
 
-Макет в sketch v52.4 и png [maket.zip](frontend/upload/maket.zip)
+Макет в sketch v52.4 и png [maket.zip](/frontend/upload/maket.zip)
 
 Данные подгружаются из файла.
 
-Файл с данными для задания 1 и 2 [wind-task-1-2.json](frontend/upload/wind-task-1-2.json)
+Файл с данными для задания 1 и 2 [wind-task-1-2.json](/frontend/upload/wind-task-1-2.json)
 
-Файлы с данными для задания 3 [wind-task-3.zip](frontend/upload/wind-task-3.zip)
+Файлы с данными для задания 3 [wind-task-3.zip](/frontend/upload/wind-task-3.zip)
 
 Всего выводится 9 дней, у дат прошедших дней черный цвет.
 
