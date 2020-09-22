@@ -2,7 +2,7 @@
 
 Документация: https://www.gismeteo.ru/api/ 
 
-Токен: `5c10e9ce8e02f6.83138424`
+Токен: `xxxxxxxxx.xxxxxxx` 
 
 ### Что нам необходимо
 
